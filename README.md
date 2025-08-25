@@ -14,12 +14,14 @@ This dataset contains hourly measurements of room temperature between 1 and 7 Au
 - publications/technical_note_temperature.pdf : technical note
 - docs/PGD_Project1.pdf : simplified Data Management Plan
 ## Variables
-⦁	date : measurement date (YYYY-MM-DD)
-⦁	time : measurement time (HH:MM)
-⦁	temperature_C : temperature in Celsius
+- date : measurement date (YYYY-MM-DD)
+- time : measurement time (HH:MM)
+- temperature_C : temperature in Celsius
 ## Methodology
 Measurements are simulated for a fictitious training project on data management. Values are generated as sinusoidal variation with random noise.
-## License
+## Dataset License
 CC BY 4.0
+## Code license:
+MIT 
 ## Funder
 Fictitious “MiniData Project 2025” (Horizon Europe, training demo).
